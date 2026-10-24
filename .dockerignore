@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.bat
+*.txt
+*.md
+*.zip
+scratch/
